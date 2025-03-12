@@ -23,7 +23,7 @@ Outside of this repo, you can start a new project with this template using [C3](
 npm create cloudflare@latest -- --template=cloudflare/templates/workers-todo
 ```
 
-A live public deployment of this template is available at [https://workers-todo.templates.workers.dev](https://workers-todo.templates.workers.dev)
+A live public deployment of this template is available at [https://workers-todo.ntsystems.workers.dev](https://workers-todo.ntsystems.workers.dev).
 
 ## Setup Steps
 
