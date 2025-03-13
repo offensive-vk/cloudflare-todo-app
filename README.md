@@ -2,8 +2,6 @@
 
 ![To-Do List Template Preview](https://imagedelivery.net/wSMYJvS3Xw-n339CbDyDIA/923473bc-a285-487c-93db-e0ddea3d3700/public)
 
-<!-- dash-content-start -->
-
 Manage your to-do list with [Cloudflare Workers Assets](https://developers.cloudflare.com/workers/static-assets/) + [Remix](https://remix.run/) + [Cloudflare Workers KV](https://developers.cloudflare.com/kv/).
 
 ## How It Works
@@ -14,14 +12,6 @@ This is a simple to-do list app that allows you to add, remove, and mark tasks a
 > When using C3 to create this project, select "no" when it asks if you want to deploy. You need to follow this project's [setup steps](https://github.com/cloudflare/templates/tree/main/workers-todo#setup-steps) before deploying.
 
 <!-- dash-content-end -->
-
-## Getting Started
-
-Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
-
-```bash
-npm create cloudflare@latest -- --template=cloudflare/templates/workers-todo
-```
 
 A live public deployment of this template is available at [https://workers-todo.ntsystems.workers.dev](https://workers-todo.ntsystems.workers.dev).
 
